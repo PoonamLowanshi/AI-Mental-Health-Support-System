@@ -194,33 +194,6 @@ The AI Mental Health Assistant uses **Ollama with Qwen 2.5 1.5B**, allowing AI r
 
 The application also includes browser-based voice recognition and speech synthesis for voice interaction.
 
----
-
-## 📸 Screenshots
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Mood Tracker
-
-![Mood Tracker](screenshots/mood%20tracker.png)
-
-### AI Mental Health Assistant
-
-![AI Chat](screenshots/ai%20chat.png)
-
-### Voice Assistant
-
-![Voice Assistant](screenshots/voice%20assistant.png)
-
-### Wellness Corner
-
-![Wellness](screenshots/wellness.png)
-
-### User Profile
-
-![Profile](screenshots/profile.png)
 
 ---
 
